@@ -7,9 +7,9 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Gustavo Rodrigues Wanderley 😁 , i am a computer science student.
+My name is __Gustavo Rodrigues Wanderley__ 😁 , i am a computer science student.
 
-- 💻 I’m currently learning flutter, python, javascript & c++ 
+- 💻 I’m currently learning Flutter, Python, Javascript & C++ 
 - 🌱 seeking experience in software development for mobile devices
 - 📚 share knowledge
 
