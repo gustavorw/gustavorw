@@ -11,7 +11,7 @@ My name is __Gustavo Rodrigues Wanderley__ 😁 , i am a computer science studen
 ### Technologies
 
 
-* ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter) ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android) ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
+* ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter) ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android) ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase) ![Dart](https://img.shields.io/badge/Dart-blue?style=flat-square&logo=dart)
 
 
 * ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
