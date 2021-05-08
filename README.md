@@ -22,6 +22,7 @@ My name is __Gustavo Rodrigues Wanderley__, I am a computer science student at t
 * ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) ![Insomnia](https://img.shields.io/badge/insomnia-purple?style=flat-square&logo=insomnia)
 * ![Django](https://img.shields.io/badge/django-darkgreen?style=flat-square&logo=django)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
+![Pandas](https://img.shields.io/badge/-pandas-darkblue?style=flat-square&logo=pandas)
 * ![C++](https://img.shields.io/badge/-C++-blue?logo=c%2B%2B&style=flat-square)
 <!--
 - 💻 I’m currently learning Flutter, Python, Javascript & C++ 
