@@ -8,7 +8,7 @@
 
 ### Bio
 
-My name is __Gustavo Rodrigues Wanderley__, I am a computer science student at the State University of Piauí (UESPI). I am a mobile developer, but I also work with the development of APIs. My experiences as a developer came from the academic world through extension and research projects. Now I am looking for my first job in the field of mobile development.
+My name is __Gustavo Rodrigues Wanderley__, I am a computer science student at the State University of Piauí (UESPI). I am a mobile developer, but I also work with the development of APIs. My experiences as a developer came from the academic world through extension and research projects. __Flutter Developer at LICI :rocket:__
 
 ### Technologies
 
