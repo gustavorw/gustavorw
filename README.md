@@ -8,22 +8,13 @@
 
 ### Bio
 
-My name is __Gustavo Rodrigues Wanderley__, I am a computer science student at the State University of Piauí (UESPI). I am a mobile developer, but I also work with the development of APIs. My experiences as a developer came from the academic world through extension and research projects. __Flutter Developer at LICI :rocket:__
+My name is Gustavo Rodrigues Wanderley, I am a student of computer science at the State University of Piauí (UESPI). I am a mobile developer, but I also work with API development. My experiences as a developer came from academia through extension and research projects, I am currently a __Flutter Developer on the LICI :rocket:__
 
 ### Technologies
 
 
-* ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter) ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android) ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase) ![Dart](https://img.shields.io/badge/Dart-blue?style=flat-square&logo=dart)
-
-
-* ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-* ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) ![Insomnia](https://img.shields.io/badge/insomnia-purple?style=flat-square&logo=insomnia)
-* ![Django](https://img.shields.io/badge/django-darkgreen?style=flat-square&logo=django)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter) ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android) ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase) ![Dart](https://img.shields.io/badge/Dart-blue?style=flat-square&logo=dart) ![Django](https://img.shields.io/badge/django-darkgreen?style=flat-square&logo=django)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
-![Pandas](https://img.shields.io/badge/-pandas-darkblue?style=flat-square&logo=pandas)
-* ![C++](https://img.shields.io/badge/-C++-blue?logo=c%2B%2B&style=flat-square)
 <!--
 - 💻 I’m currently learning Flutter, Python, Javascript & C++ 
 - 🌱 seeking experience in software development for mobile devices
