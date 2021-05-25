@@ -14,7 +14,7 @@ My name is Gustavo Rodrigues Wanderley, I am a student of computer science at th
 
 
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter) ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android) ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase) ![Dart](https://img.shields.io/badge/Dart-blue?style=flat-square&logo=dart) ![Django](https://img.shields.io/badge/django-darkgreen?style=flat-square&logo=django)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python) ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 <!--
 - 💻 I’m currently learning Flutter, Python, Javascript & C++ 
 - 🌱 seeking experience in software development for mobile devices
