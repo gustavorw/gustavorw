@@ -8,7 +8,7 @@
 
 #### Bio
 
-My name is Gustavo Rodrigues Wanderley, I am a student of computer science at the State University of Piauí (UESPI). I am a mobile developer, but I also work with API development. My experiences as a developer came from academia through extension and research projects. I am currently a __Flutter Developer on the LICI :rocket:__
+My name is Gustavo Rodrigues Wanderley, I am a student of computer science at the State University of Piauí (UESPI). I am a mobile developer, but I also work with API development. My experiences as a developer came from academia through extension and research projects. I am currently a __Flutter Developer on the F-Team :rocket:__
 
 #### Technologies
 
