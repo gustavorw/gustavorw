@@ -1,11 +1,8 @@
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-rodrigues-644a35192/)](https://www.linkedin.com/in/gustavo-rodrigues-644a35192/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavorw03@gmail.com)](mailto:gustavorw03@gmail.com)
 
-
-💻 I’m currently learning
-💬 Ask me about Flutter
+- 💻 I’m currently learning
+- 💬 Ask me about Flutter
 
 #### Skills
 
@@ -20,6 +17,10 @@
 ![Django](https://img.shields.io/badge/django-darkgreen?style=flat-square&logo=django)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
  ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-rodrigues-644a35192/)](https://www.linkedin.com/in/gustavo-rodrigues-644a35192/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavorw03@gmail.com)](mailto:gustavorw03@gmail.com)
+
 
 **gustavo-wanderley/gustavo-wanderley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
