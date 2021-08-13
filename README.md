@@ -3,15 +3,18 @@
 
 - 💻 I’m currently learning
 - 💬 Ask me about Flutter
+- 📚 Focused on app development
+
+<!--
+- 💻 I’m currently learning Flutter, Python, Javascript & C++ 
+- 🌱 seeking experience in software development for mobile devices
+- 📚 share knowledge
 
 #### Skills
 
 
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter) ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)  ![Dart](https://img.shields.io/badge/Dart-blue?style=flat-square&logo=dart) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
-<!--
-- 💻 I’m currently learning Flutter, Python, Javascript & C++ 
-- 🌱 seeking experience in software development for mobile devices
-- 📚 share knowledge
+
 
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 ![Django](https://img.shields.io/badge/django-darkgreen?style=flat-square&logo=django)
