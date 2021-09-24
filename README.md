@@ -1,5 +1,5 @@
-### Hi, Gustavo Rodrigues here 👋🏽
-##### Some information about me:
+#### Hi, Gustavo Rodrigues here 👋🏽
+###### Some information about me:
 - 👨‍💻 Computer science academic
 - 🚀 Mobile developer on **[F-Team](https://fteam.dev/desenvolvimento)**
 - 🏋️ I love GYM
@@ -9,7 +9,7 @@
 - - ----
 ##### STACKS
 
- ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter) ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)  ![Dart](https://img.shields.io/badge/Dart-blue?style=flat-square&logo=dart) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python) ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
+ ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter) ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)  ![Dart](https://img.shields.io/badge/Dart-blue?style=flat-square&logo=dart) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python) ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase) ![Hasura](https://img.shields.io/badge/Hasura-black?style=flat-square&logo=hasura)
 
 
 <!--
