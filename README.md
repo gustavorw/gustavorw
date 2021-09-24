@@ -1,5 +1,5 @@
-#### Hi, Gustavo Rodrigues here 👋🏽
-###### Some information about me:
+### Hi, Gustavo Rodrigues here 👋🏽
+##### Some information about me:
 - 👨‍💻 Computer science academic
 - 🚀 Mobile developer on **[F-Team](https://fteam.dev/desenvolvimento)**
 - 🏋️ I love GYM
