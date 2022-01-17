@@ -9,7 +9,7 @@
 - - ----
 ##### STACKS
 
- ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter) ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)  ![Dart](https://img.shields.io/badge/Dart-blue?style=flat-square&logo=dart) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python) ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase) ![Hasura](https://img.shields.io/badge/Hasura-black?style=flat-square&logo=hasura)
+ ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter) ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)  ![Dart](https://img.shields.io/badge/Dart-blue?style=flat-square&logo=dart) ![Typescript](https://img.shields.io/badge/Typescript-blue?style=flatsquare&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase) ![Hasura](https://img.shields.io/badge/Hasura-black?style=flat-square&logo=hasura)
 
 
 <!--
@@ -22,7 +22,7 @@
 
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter) ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)  ![Dart](https://img.shields.io/badge/Dart-blue?style=flat-square&logo=dart) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
 
-
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 ![Django](https://img.shields.io/badge/django-darkgreen?style=flat-square&logo=django)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
