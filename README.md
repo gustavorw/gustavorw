@@ -16,7 +16,8 @@
 - 💻 I’m currently learning Flutter, Python, Javascript & C++ 
 - 🌱 seeking experience in software development for mobile devices
 - 📚 share knowledge
-
+https://img.shields.io/badge/C++-darkblue?style=flat-square&logo=cplusplus 
+https://img.shields.io/badge/Blender-white?style=flat-square&logo=blender
 #### Skills
 
 
