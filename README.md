@@ -1,7 +1,7 @@
 #### Hi, Gustavo Rodrigues here 👋🏽
 ###### Some information about me:
 - 👨‍💻 Computer science academic
-- 🚀 Mobile developer on **[F-Team](https://fteam.dev/desenvolvimento)**
+- 🚀 Mobile developer on **[DigiFarmz Smart Agriculture](https://www.digifarmz.com/)**
 - 🏋️ I love GYM
 - 💻 I’m currently learning
 - 💬 Ask me about Flutter
