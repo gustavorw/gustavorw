@@ -1,7 +1,7 @@
 #### Hi, Gustavo Rodrigues here 👋🏽
 ###### Some information about me:
 - 🎓 Computer science 
-- 🚀 Mobile developer on **[https://cwi.com.br/)**
+- 🚀 Mobile developer on **[CWI Software](https://cwi.com.br/)**
 - 🏋️ I love GYM
 - 💻 I’m currently learning
 - 💬 Ask me about Flutter
